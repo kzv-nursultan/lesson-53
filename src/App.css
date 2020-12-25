@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.inputBar{
+  margin: 20px;
+}
+
+input{
+  margin: 5px;
+}
+
+.task{
+  border: 1px solid black;
+  margin: 5px;
+  padding-bottom: 10px;
+}
